@@ -1,6 +1,8 @@
 # stylelintrc-example
 An example of my .stylelintrc (Style lint config)
 
+`npm install` to pull down dependencies.
+
 `npm run lint` to run the linting.
 
 [CSS-tricks article on StyleLint](https://css-tricks.com/stylelint/)
