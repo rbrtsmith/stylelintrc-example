@@ -1,0 +1,23 @@
+{
+  "name": "stylelintrc_example",
+  "version": "1.0.0",
+  "description": "An example of a .stylelint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylelint 'path-to-your-styles/**/*.scss' --syntax scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbrtsmith/stylelintrc-example.git"
+  },
+  "author": "Robert Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbrtsmith/stylelintrc-example/issues"
+  },
+  "devDependencies": {
+    "stylelint": "^5.2.1",
+    "stylelint-config-standard": "^4.0.1"
+  },
+  "homepage": "https://github.com/rbrtsmith/stylelintrc-example#readme"
+}
